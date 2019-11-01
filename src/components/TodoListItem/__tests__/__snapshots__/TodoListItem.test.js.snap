@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoListItem should render properly 1`] = `
+<li
+  onClick={[Function]}
+>
+  <div
+    className="li-title"
+  >
+    mock item
+  </div>
+</li>
+`;

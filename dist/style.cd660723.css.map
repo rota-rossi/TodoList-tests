@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.cd660723.css","sourceRoot":"..","sourcesContent":["html {\n  min-height: 100vh;\n  width: 100%;\n}\nbody {\n  height: 100vh;\n}\n"]}

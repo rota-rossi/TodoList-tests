@@ -1,0 +1,30 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-react": "^7.6.3",
+    "@testing-library/react": "^9.3.1",
+    "babel-jest": "^24.9.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^24.9.0",
+    "parcel-bundler": "^1.12.4",
+    "react-test-renderer": "^16.11.0"
+  },
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "\\.css$": "identity-obj-proxy"
+    }
+  }
+}

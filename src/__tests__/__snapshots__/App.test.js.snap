@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Should render properly 1`] = `
+<div>
+  <div
+    className="title-area"
+  >
+    <h1
+      className="title-text"
+    >
+      Todo List
+    </h1>
+  </div>
+  <div
+    className="todolist-area"
+  >
+    <ul>
+      <li
+        onClick={[Function]}
+      >
+        <div
+          className="li-title"
+        >
+          Buy Milk
+        </div>
+        <div
+          className="li-content"
+        >
+          2% fat
+        </div>
+      </li>
+      <li
+        onClick={[Function]}
+      >
+        <div
+          className="li-title"
+        >
+          Take out the trash
+        </div>
+      </li>
+      <li
+        onClick={[Function]}
+      >
+        <div
+          className="li-title"
+        >
+          Buy Costume
+        </div>
+      </li>
+    </ul>
+  </div>
+  <p>
+    FOOTER!
+  </p>
+</div>
+`;

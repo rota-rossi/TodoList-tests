@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1572568422119" clover="3.2.0">
+  <project timestamp="1572568422119" name="All files">
+    <metrics statements="13" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="6" elements="22" coveredelements="20" complexity="0" loc="13" ncloc="13" packages="4" files="4" classes="4"/>
+    <package name="src">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="/Users/leorossi/Ramblings/React/TodoList/src/App.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Title">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Title.js" path="/Users/leorossi/Ramblings/React/TodoList/src/components/Title/Title.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.TodoList">
+      <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="TodoList.js" path="/Users/leorossi/Ramblings/React/TodoList/src/components/TodoList/TodoList.js">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.TodoListItem">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="TodoListItem.js" path="/Users/leorossi/Ramblings/React/TodoList/src/components/TodoListItem/TodoListItem.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

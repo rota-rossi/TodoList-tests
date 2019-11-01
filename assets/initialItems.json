@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "title": "Buy Milk",
+    "description": "2% fat"
+  },
+  {
+    "id": 1,
+    "title": "Take out the trash",
+    "description": "Every other Thursday"
+  },
+  {
+    "id": 2,
+    "title": "Buy Costume",
+    "description": "Buy costume for Halloween"
+  }
+]
